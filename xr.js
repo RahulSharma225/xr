@@ -55,7 +55,5 @@
             engine.resize();
         });
     </script>
-    <script src="xr.js" defer></script>
-
 </body>
 </html>
